@@ -1,0 +1,8 @@
+User define header file of linked list (create_display.h) 
+how to use it?
+eg
+  #include<stdio.h>     //predefine header file
+  #include"create_display.h"   //user define header file
+  //this create_display.h file contain the function for creating "create()" node and to  insert data simultaneously
+  //display() function is used to display all the data entered by user 
+  //In this example main() function is menu driven drive format
